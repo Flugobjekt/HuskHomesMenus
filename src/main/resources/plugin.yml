@@ -4,6 +4,7 @@ name: HuskHomesMenus
 version: 1.1.6
 main: net.chumbucket.huskhomesmenus.HuskHomesMenus
 api-version: 1.21
+folia-supported: true
 
 depend: [HuskHomes]
 softdepend: [PlaceholderAPI, ProtocolLib]
